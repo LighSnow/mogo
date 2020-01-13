@@ -337,6 +337,10 @@
     &:last-child {
       margin-bottom: 0;
     }
+
+    &+.about__item {
+      margin-left: 0;
+    }
   }
 
   .design {
