@@ -1,0 +1,27 @@
+$white: #fff;
+$black: #333333;
+$gray: #999999;
+
+
+
+
+
+@mixin m400 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+@mixin m700 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+@mixin r400 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+@mixin k400 {
+  font-family: 'Kaushan Script', cursive;
+  font-weight: 400;
+}

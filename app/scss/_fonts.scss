@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('../fonts/icomoon.eot?kjt5qo');
+  src: url('../fonts/icomoon.eot?kjt5qo#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?kjt5qo') format('truetype'),
+    url('../fonts/icomoon.woff?kjt5qo') format('woff'),
+    url('../fonts/icomoon.svg?kjt5qo#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\f002";
+}
+.icon-home:before {
+  content: "\f015";
+}
+.icon-image:before {
+  content: "\f03e";
+}
+.icon-photo:before {
+  content: "\f03e";
+}
+.icon-picture-o:before {
+  content: "\f03e";
+}
+.icon-map-marker:before {
+  content: "\f041";
+}
+.icon-eye:before {
+  content: "\f06e";
+}
+.icon-shopping-cart:before {
+  content: "\f07a";
+}
+.icon-twitter:before {
+  content: "\f099";
+}
+.icon-facebook:before {
+  content: "\f09a";
+}
+.icon-facebook-f:before {
+  content: "\f09a";
+}
+.icon-google-plus:before {
+  content: "\f0d5";
+}
+.icon-bullseye:before {
+  content: "\f140";
+}
+.icon-youtube-play:before {
+  content: "\f16a";
+}
+.icon-instagram:before {
+  content: "\f16d";
+}
+.icon-tumblr:before {
+  content: "\f173";
+}
+.icon-dribbble:before {
+  content: "\f17d";
+}
+.icon-pinterest-p:before {
+  content: "\f231";
+}
+.icon-commenting:before {
+  content: "\f27a";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-equalizer2:before {
+  content: "\e993";
+}
+
+
